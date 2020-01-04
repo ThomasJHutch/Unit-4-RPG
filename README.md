@@ -1,6 +1,6 @@
 # Unit-4-RPG
 
-1. i spent pretty much all of the week of christmas getting this game done. and by new year i had only figured out about half the project. I looked onto the next homework and saw that there was a video guide for this game i could follow. i followed and coded along trying to deduce how things are done. I think it was best for my learning to code to go along with the video. simply to get it done and learn the jquery and js. in the future, ill need to learn to pseudo code much better. because that feels to be kust as important learning all the js syntax and jquery. critical thinking skills and such.  
+1. i spent pretty much all of the week of christmas getting this game done. and by new year i had only figured out about half the project. I looked onto the next homework and saw that there was a video guide for this game i could follow. i followed and coded along trying to deduce how things are done. I think it was best for my learning to code to go along with the video. simply to get it done and learn the jquery and js. in the future, ill need to learn to pseudo code much better. because that feels to be kust as important learning all the js syntax and jquery. critical thinking skills and such. and i still cant get the photos to load. but ill work on that after class too.
 
 2. How the game works:
 
