@@ -1,0 +1,36 @@
+body {
+    background-image: url("../../assets/images/stars.jpg");
+    font-family: 'Roboto', sans-serif;
+    color: rgb(255, 217, 0);
+   }
+
+img {
+    height: 100px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+.section-title {
+    font-size: 200%;
+}
+
+.character {
+    display: inline-block;
+    border-style: solid;
+    border-color: rgb(255, 217, 0);
+    border-width: 3px;
+    cursor: pointer;
+    background-color: white;
+}
+
+.character-image {
+    padding-right: 16px;
+    padding-left: 16px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.character-name { text-align: center; }
+.character-health { text-align: center; }
+
+
