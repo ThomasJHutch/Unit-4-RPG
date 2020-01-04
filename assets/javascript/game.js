@@ -4,35 +4,35 @@ $(document).ready(function () {
             name: "Obi-Wan Kenobi",
             health: 115,
             attack: 8,
-            imageUrl: "assets/images/obi-wan.jpg",
+            imageUrl: "../assets/images/obi-wan.jpg",
             enemyAttackBack: 15
         },
         "Anakin Skywalker": {
             name: "Anakin Skywalker",
             health: 150,
             attack: 12,
-            imageUrl: "assets/images/anakin.jpg",
+            imageUrl: "../assets/images/anakin.jpg",
             enemyAttackBack: 18
         },
         "Baby Yoda": {
             name: "Baby Yoda",
             health: 40,
             attack: 60,
-            imageUrl: "assets/images/luke.jpg",
+            imageUrl: "../assets/images/luke.jpg",
             enemyAttackBack: 8
         },
         "Darth Maul": {
             name: "Darth Maul",
             health: 169,
             attack: 8,
-            imageUrl: "assets/images/darth_maul.jpg",
+            imageUrl: "../assets/images/darth_maul.jpg",
             enemyAttackBack: 25
         },
         "Darth Vader": {
             name: "Darth Vader",
             health: 80,
             attack: 10,
-            imageUrl: "assets/images/vader.jpg",
+            imageUrl: "../assets/images/vader.jpg",
             enemyAttackBack: 16
         }
     };
